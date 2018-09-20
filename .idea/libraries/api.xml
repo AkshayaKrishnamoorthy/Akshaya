@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/api" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jdk/api/attach/spec" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jdk/api/javac/tree" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jdk/api/javadoc/doclet" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jdk/api/jconsole/spec" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jdk/api/jpda/jdi" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jdk/api/nashorn" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/accessibility/jaccess/spec" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/management/extension" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/net/httpserver/spec" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/net/socketoptions/spec" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/nio/sctp/spec" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/plugin/dom" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/security/jaas/spec" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/security/jgss/spec" />
+      <root url="file:///usr/lib/jvm/java-8-openjdk-amd64/docs/jre/api/security/smartcardio/spec" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
